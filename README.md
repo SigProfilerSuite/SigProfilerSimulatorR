@@ -1,5 +1,5 @@
 ⚠️ **DEPRECATION NOTICE** ⚠️
-This repository is deprecated and no longer maintained as of v1.3.6. Its functionality is maintained in the Python version [SigProfilerSimulator](https://github.com/SigProfilerSuite/SigProfilerSimulator).
+This repository is deprecated and no longer maintained as of v1.2.2. Its functionality is maintained in the Python version [SigProfilerSimulator](https://github.com/SigProfilerSuite/SigProfilerSimulator).
 <hr>
 <br>
 
