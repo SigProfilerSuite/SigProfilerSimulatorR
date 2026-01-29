@@ -1,3 +1,8 @@
+⚠️ **DEPRECATION NOTICE** ⚠️
+This repository is deprecated and no longer maintained as of v1.3.6. Its functionality is maintained in the Python version [SigProfilerSimulator](https://github.com/SigProfilerSuite/SigProfilerSimulator).
+<hr>
+<br>
+
 [![Docs](https://img.shields.io/badge/docs-latest-blue.svg)](https://osf.io/usxjz/wiki/home/) [![License](https://img.shields.io/badge/License-BSD\%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![Build Status](https://travis-ci.com/AlexandrovLab/SigProfilerSimulatorR.svg?branch=master)](https://travis-ci.com/AlexandrovLab/SigProfilerSimulatorR)
 
 # SigProfilerSimulatorR
@@ -128,7 +133,7 @@ For all errors, please email the error and progress log files to the primary con
 
 **CITATION**
 
-Erik N. Bergstrom, Mark Barnes, I�igo Martincorena, Ludmil B. Alexandrov
+Erik N. Bergstrom, Mark Barnes, Iñigo Martincorena, Ludmil B. Alexandrov
 bioRxiv 2020.02.13.948422; doi: https://doi.org/10.1101/2020.02.13.948422
 https://www.biorxiv.org/content/10.1101/2020.02.13.948422v1
 
