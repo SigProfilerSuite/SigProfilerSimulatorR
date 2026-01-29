@@ -1,7 +1,7 @@
 Package: SigProfilerSimulatorR
 Type: Package
 Title: An R wrapper for running the SigProfilerSimulator framework
-Version: 0.1.0
+Version: 1.2.2 
 Author: Erik Bergstrom
 Maintainer: Erik Bergstrom <ebergstr@eng.ucsd.edu>
 Description: SigProfilerSimulator allows realistic simulations of mutational patterns and mutational 
